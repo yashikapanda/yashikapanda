@@ -2,7 +2,9 @@
 <h3 align="left">Passionate computer science engineering student</h3>
  
 <img align ="right" alt="coding" width="300"  src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112"> <h3> 💫About Me:<br></h3>
-🔭 I’m currently pursuing B-tech at NIST university<br><br>🌱 I’m currently learning Full-stack<br><br>👨‍💻 All of my projects are available at https://portfolio1-one-amber.vercel.app/<br>
+- 🔭 I’m currently pursuing B-tech at NIST university
+- 🌱 I’m currently learning Full-stack
+- 👨‍💻 All of my projects are available at https://portfolio1-one-amber.vercel.app
 
 
 ## 🌐 Socials:
